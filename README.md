@@ -2,6 +2,8 @@
 
 Development has moved to https://github.com/openeuropa/oe_ai_provider_gpt_at_ec .
 
+Repository will be deleted in the upcoming months.
+
 # OpenEuropa GPT@EC AI Provider
 
 Enables the use of GPT@EC as provider for the Drupal AI module.
